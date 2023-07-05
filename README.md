@@ -96,7 +96,9 @@ client.login(config.token);
 ### Order 1: Development of the Start Music Studio logo 
 - [Logo](/Logo(JPG).jpg )
 - Skills used: The basics of graphic design, the use of vector graphic tools, typography.
-
+### Order 2: Poster for Russian Language Class 
+- [Poster](/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%201.jpg)
+- Skills used: The basics of graphic design, the use of vector graphic tools, typography.
 ## 7. Courses and trainings
 - Completion of an educational program at the National Technical Park for the development of Web design
 
