@@ -15,10 +15,23 @@ My goal and priority is to continue to develop in the field of design and web de
  With my freelance and enterprise experience as a designer, I have developed project management, self-organization and customer interaction skills. My experience also includes website development and execution of design orders. I strive for professional growth, reflecting the client's uniqueness and achieving high results in the business environment.
 
 ## 4. Skills
-- Programming languages: C#, JavaScript.
-- Frameworks: Vue.js, React.js, Discord.js, Bootstrap.
-- Version control systems: Git.
-- Development tools: Visul Stidio, Visual Studio Code, Open Server, WebStorm, Sublime Text 3, Adobe Illustrator, Adobe Photoshop, Figma.
+Hard skills:
+
+   - Programming languages: C# and JavaScript
+  -  Frameworks: Vue.js, React.js, and Discord.js
+  -  Version control systems: Git
+  -  Development tools: Visual Studio, Visual Studio Code, Open Server, WebStorm, Sublime Text 3, Adobe Illustrator, Adobe Photoshop, and Figma
+
+Soft skills:
+
+  -  Problem-solving: The ability to analyze complex problems and come up with effective solutions using programming languages and frameworks.
+   - Adaptability: Being flexible and open to learning new programming languages, frameworks, and tools as technology evolves.
+   - Attention to detail: Paying close attention to small details while coding and ensuring accuracy in implementation.
+   - Time management: Efficiently organizing tasks, prioritizing work, and meeting deadlines in a fast-paced development environment.
+   - Teamwork: Collaborating with others, participating in group projects, and contributing positively to team dynamics.
+   - Creativity: Thinking creatively to develop innovative solutions and user-friendly interfaces.
+   - Analytical thinking: Applying logical reasoning and critical thinking skills to analyze problems and make informed decisions in software development.
+   - Continuous learning: A willingness to stay updated with the latest trends, tools, and techniques in the field of software development.
 
 ## 5. Code examples
 ```js
@@ -77,7 +90,9 @@ client.login(config.token);
 - [Logo 2](/Logo3.jpg)
 - [Logo 3](/Logo4.jpg)
 - Skills used: The basics of graphic design, the use of vector graphic tools, typography.
-
+### Project 3: ObiumProject
+- Link to [project](https://obiumproject.github.io/index.html)
+- Skills used: The basics of graphic design, HTML, CSS, JavaScript, Bootstrap
 ### Order 1: Development of the Start Music Studio logo 
 - [Logo](/Logo(JPG).jpg )
 - Skills used: The basics of graphic design, the use of vector graphic tools, typography.
