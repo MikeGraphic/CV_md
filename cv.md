@@ -94,10 +94,10 @@ client.login(config.token);
 - Link to [project](https://obiumproject.github.io/index.html)
 - Skills used: The basics of graphic design, HTML, CSS, JavaScript, Bootstrap
 ### Order 1: Development of the Start Music Studio logo 
-- [Logo](/img/Logo(JPG).jpg )
+- [Logo](/img/Logo1.jpg)
 - Skills used: The basics of graphic design, the use of vector graphic tools, typography.
 ### Order 2: Poster for Russian Language Class 
-- [Poster](/img/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%201.jpg)
+- [Poster](/img/poster.jpg)
 - Skills used: The basics of graphic design, the use of vector graphic tools, typography.
 ### Order 3: Photo studio logo for the website and account in tiktok
 - [Logo](/img/PhotoLogo.JPG)
