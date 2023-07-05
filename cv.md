@@ -109,4 +109,4 @@ client.login(config.token);
 The level of English is B1. I speak English well enough to read documentation, communicate and learn new technologies.
 
 ## 9. Photo
-<img src="img/S4jcSywGUeI.jpg">
+![my photo](./img/S4jcSywGUeI.jpg)
